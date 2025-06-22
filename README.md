@@ -21,7 +21,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contáctame
 <p align="center">
-	<a href="mailto:programador3693@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:programador3693@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Jeaggernaut"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 
   <!--
@@ -90,7 +90,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeaggernaut&theme=tokyonight_duo" alt="Jeaggernaut" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeaggernaut&theme=tokyonight_duo&locale=es" alt="Jeaggernaut" /></p>
 
 </details>
 
@@ -100,7 +100,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Jeaggernaut Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jeaggernaut&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Jeaggernaut Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jeaggernaut&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeaggernaut&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Jeaggernaut" height="230px"/>
 <br/>
 
