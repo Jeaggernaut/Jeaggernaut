@@ -110,7 +110,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: Mis repositorios </h3></summary>
 
 ----
 	
