@@ -3,6 +3,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenieria+en+Sistemas;Programador+Competitivo;Java+Lover"></a>
 </p>
 
+<!--
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 
@@ -16,6 +17,31 @@
 - 🤓 Siempre estoy `aprendiendo cosas nuevas`.
 
 <br>
+-->
+
+<h2>
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+  </picture> Sobre mí
+</h2>
+
+<!-- Contenedor tipo tabla para control simple -->
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 Soy un <code>estudiante</code> de Ingeniería en Sistemas Computacionales.</li>
+        <li>💻 Me encanta usar el <code>software</code> como solución para cualquier problema.</li>
+        <li>📘 Actualmente estoy aprendiendo sobre <code>SpringBoot</code>.</li>
+        <li>🤓 Siempre estoy <code>aprendiendo cosas nuevas</code>.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+    </td>
+  </tr>
+</table>
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contáctame
 <p align="center">
