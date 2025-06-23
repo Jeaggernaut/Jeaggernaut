@@ -3,14 +3,12 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenieria+en+Sistemas;Programador+Competitivo;Java+Lover"></a>
 </p>
 
-<br>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br><br><br>
 
 - 🎓 Soy un `estudiante` de Ingeniería en Sistemas Computacionales.
 - 💻 Me encanta usar el `software` como solución para cualquier problema.
